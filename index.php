@@ -647,7 +647,7 @@
         </div>
 
         <div class="modal-footer">
-          <a href="http://tinyurl.com/jdymnat" target="_blank" class="waves-effect btn-flat brand-text modal-action">Live Demo</a>
+          <a href="http://tinyurl.com/jdymnat" target="_blank" class="waves-effect btn-flat brand-text modal-action">Visit Website</a>
           <a href="#" class="waves-effect btn-flat brand-text modal-action modal-close">cancel</a>
         </div>
       </div>
